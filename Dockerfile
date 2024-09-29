@@ -1,1 +1,1 @@
-FROM redis:7.2.4-alpine3.19
+FROM mysql:8.3.0
